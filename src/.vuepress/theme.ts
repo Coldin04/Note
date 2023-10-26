@@ -5,6 +5,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://note.coldin.top",
 
+
   author: {
     name: "酷丁",
     url: "https://coldin.top",
@@ -25,7 +26,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "永远相信美好的事情即将发生",
+  footer: "Code licensed under MIT, documentation under CC BY-NC 4.0 ",
 
   displayFooter: true,
 
@@ -51,6 +52,7 @@ export default hopeTheme({
     //  category: "Announcements",
     //  categoryId: "DIC_kwDOG_Pt2M4COD69",
     //},
+    
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {

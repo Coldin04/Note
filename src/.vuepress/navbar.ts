@@ -5,7 +5,7 @@ export default navbar([
   {
     text: "笔记",
     icon: "book",
-    prefix: "/note/",
+    prefix: "/",
     children: [
       {
         text: "云计算",
@@ -14,6 +14,11 @@ export default navbar([
         //prefix: "/bar/",
         //children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
       },
+      {
+        text: "SQL Server",
+        icon: "database",
+        link: "SQLServer/",
+      }
       //{
       //  text: "Foo",
       //  icon: "lightbulb",
