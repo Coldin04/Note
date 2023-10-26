@@ -26,21 +26,6 @@ tags:
 ![Pasted image 20231005215924.png](https://s2.loli.net/2023/10/08/3NOFcnXEwuxZDHA.png)
 ![Pasted image 20231005220040.png](https://s2.loli.net/2023/10/08/Z6Rw2aTqDdUHiJP.png)
 
-开启虚拟机后，根据提示安装，并注意修改如下设置你的CentOS7
-# 安装
-使用Vmare Workstation 创建虚拟机以安装CentOS,启动软件后，选择新建虚拟机：
-![新建虚拟机.png](https://s2.loli.net/2023/10/08/yRMSq2Ju4EkNnB1.png)
-
-在弹出的窗口中选择自定义
-![自定义新建虚拟机向导.png](https://s2.loli.net/2023/10/08/G7bKUl4istwgcX5.png)
-将硬件兼容性调旧（方便在学校机房使用，若仅在个人笔记本使用，无需修改）
-![兼容性.png](https://s2.loli.net/2023/10/08/JKTYlI1oB2x4WDz.png)
-选择CentOS镜像位置并继续：
-![Pasted image 20231005215749.png](https://s2.loli.net/2023/10/08/7vy1fZLkDdh28Qa.png)
-其他保持默认选项，创建完成后自定义硬件，在此处自定义网络模式，并保证“虚拟网络编辑器”中按照要求配置：
-![Pasted image 20231005215924.png](https://s2.loli.net/2023/10/08/3NOFcnXEwuxZDHA.png)
-![Pasted image 20231005220040.png](https://s2.loli.net/2023/10/08/Z6Rw2aTqDdUHiJP.png)
-
 开启虚拟机后，根据提示安装，并注意修改如下设置，软件选择改为`GNOME桌面`。
 ![Pasted image 20231005220458.png](https://s2.loli.net/2023/10/08/xgGOwvp9nPJSkfV.png)
 记得配置本页中的两个选项

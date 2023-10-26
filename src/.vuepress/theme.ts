@@ -37,11 +37,16 @@ export default hopeTheme({
   },
 
   // page meta
-  metaLocales: {
-    //editLink: false,
+metaLocales: {
+    editLink: "在GitHub上编辑此页",
   },
-  editLink: false,
-  repoDisplay: false,
+  repoDisplay: true,
+  docsRepo : "coldin04/NoteShare",
+  docsBranch: "master",
+  lastUpdated: true,
+  contributors: true,
+  editLink: true,
+
 
   plugins: {
     // You should generate and use your own comment service
