@@ -95,12 +95,15 @@ go
 ```sql
 fn:substring($sourceString as xs:string?, $startingLoc as xs:decimal?, $length as xs:decimal?) as xs:string?
 ```
+```
 _$sourceString_  
 资源字符串。
 _$startingLoc_  
 子字符串在资源字符串中的起点。 如果此值为负数或 0，则只返回那些所在位置大于零的字符。 如果它大于 _$sourceString_的长度，则返回零长度字符串。
 _$length_  
 [可选] 要检索的字符数。 如果未指定，它将返回从 _$startingLoc_ 中指定的位置到字符串末尾的所有字符。
+
+```
 
 [官方文档](https://learn.microsoft.com/zh-cn/sql/xquery/functions-on-string-values-substring?view=sql-server-ver16#remarks)
 
