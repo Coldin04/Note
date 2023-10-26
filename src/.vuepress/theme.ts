@@ -16,7 +16,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "coldin04/NoteShare",
 
   docsDir: "src",
 
@@ -46,6 +46,8 @@ metaLocales: {
   lastUpdated: true,
   contributors: true,
   editLink: true,
+  repoLabel: "GitHub",
+
 
 
   plugins: {
