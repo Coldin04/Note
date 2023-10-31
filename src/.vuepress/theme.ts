@@ -48,7 +48,7 @@ metaLocales: {
   editLink: true,
   repoLabel: "GitHub",
 
-
+  boolean : true,
 
   plugins: {
     // You should generate and use your own comment service
