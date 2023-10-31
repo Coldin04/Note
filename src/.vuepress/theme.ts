@@ -16,7 +16,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "coldin04/NoteShare",
+  repo: "coldin04/Note",
 
   docsDir: "src",
 
@@ -41,7 +41,7 @@ metaLocales: {
     editLink: "在GitHub上编辑此页",
   },
   repoDisplay: true,
-  docsRepo : "coldin04/NoteShare",
+  docsRepo : "coldin04/Note",
   docsBranch: "master",
   lastUpdated: true,
   contributors: true,
