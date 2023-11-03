@@ -2,7 +2,7 @@
 title: 手动部署LNMP
 order: 2
 date: 2023-10-31 23:09:11
-tags:
+tag:
 - LNMP
 - Linux
 - Nginx

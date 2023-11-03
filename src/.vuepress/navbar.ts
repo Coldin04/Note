@@ -18,6 +18,15 @@ export default navbar([
         text: "SQL Server",
         icon: "database",
         link: "SQLServer/",
+      },
+      {
+        text: "Linux基础",
+        icon: "computer",
+        link: "linux/",
+      },
+      {
+        text: "更多",
+        link: "guide/",
       }
       //{
       //  text: "Foo",
@@ -31,6 +40,11 @@ export default navbar([
     text: "关于我",
     icon: "circle-info",
     link: "https://coldin.top",
+  },
+  {
+    text: "友链",
+    icon: "link",
+    link: "/friend",
   },
   //{
   //  text: "V2 文档",

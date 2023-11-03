@@ -2,7 +2,7 @@
 title: 安装系统和网络配置
 date: 2023-10-08 23:37:00
 order: 1
-tags:
+tag:
   - CentOS
   - "笔记"
   - "学习"

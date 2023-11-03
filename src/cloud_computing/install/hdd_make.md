@@ -2,7 +2,7 @@
 title: 配置一块新硬盘并挂载
 date: 2023-10-09 23:37:00
 order: 3
-tags:
+tag:
   - CentOS
   - "笔记"
   - "学习"
