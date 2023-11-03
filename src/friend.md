@@ -10,3 +10,12 @@ icon: link
 简介：一个有点水的笔记，致力于分享自己的知识
 链接：https://note.coldin.top
 图片：https://note.coldin.top/logo.png
+
+
+```card
+title: lingxh的笔记
+desc: 小猫咪的学习笔记
+logo: https://avatars.githubusercontent.com/u/59961232?v=4
+link: https://note.lingxh.com
+color: rgba(255,240,245, 0.15)
+```

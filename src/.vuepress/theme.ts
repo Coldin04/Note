@@ -66,6 +66,7 @@ metaLocales: {
       align: true,
       attrs: true,
       chart: true,
+      card: true,
       codetabs: true,
       demo: true,
       echarts: true,
