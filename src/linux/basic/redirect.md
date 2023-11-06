@@ -1,6 +1,6 @@
 ---
 title: 重定向和管道
-order: 3
+order: 5
 tag:
   - Shell
   - Linux
@@ -66,3 +66,6 @@ ls >> ls.txt
 ls | grep "txt"
 ```
 
+## 参考资料
+
+1. [正则表达式-菜鸟教程](https://www.runoob.com/regexp/regexp-tutorial.html)
