@@ -1,8 +1,8 @@
 ---
-title: 基础配置和指令
+title: ShelL Scripts
 index: false
 dir:
-  order: 1
+  order: 2
 ---
 
 
