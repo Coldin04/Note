@@ -28,6 +28,8 @@ head:
   - - meta
     - name: baidu-site-verification
       content: codeva-u0hm6Q0Ddz
+    - name: keyword
+      content: Coldin04,酷丁的笔记,学生笔记,计算机网络,linux
 
 description: 欢迎来到酷丁的笔记仓库，这是一个计算机网络专业的学生的笔记，重点在于Linux基础操作，网络方面，后期可能增加更多内容。本笔记在GitHub开源，也欢迎大家参与贡献，一起完善这个笔记。
 
