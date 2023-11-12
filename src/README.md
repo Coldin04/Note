@@ -28,6 +28,7 @@ head:
   - - meta
     - name: baidu-site-verification
       content: codeva-u0hm6Q0Ddz
+  - - meta
     - name: keyword
       content: Coldin04,酷丁的笔记,学生笔记,计算机网络,linux
 
