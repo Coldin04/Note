@@ -1,6 +1,6 @@
 ---
 title: Shell Script中的for循环
-order: 8
+order: 9
 tag:
   - shell
   - linux
