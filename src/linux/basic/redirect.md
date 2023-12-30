@@ -1,6 +1,6 @@
 ---
 title: 重定向和管道
-order: 5
+order: 6
 tag:
   - Shell
   - Linux

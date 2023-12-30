@@ -1,6 +1,6 @@
 ---
 title: Linux文件权限管理基础
-order: 4
+order: 5
 ---
 
 ## 权限：
@@ -52,6 +52,30 @@ chown 属主 文件/目录
 chown :属组 文件/目录
 chown 属主:属组 文件/目录
 ```
+
+## umask
+如果在创建文件或目录时，没有指定权限，那么系统会根据umask的值来确定权限。
+
+```bash
+[root@localhost ~]# umask
+0022
+```
+
+也可以通过`umask -S`来查看
+
+```bash
+[root@localhost ~]# umask -S
+u=rwx,g=rx,o=rx
+```
+
+umask命令也可以用来修改文件的默认权限，但是只能修改当前会话的默认权限，重启后会失效。
+
+```bash
+[root@localhost ~]# umask 0000
+[root@localhost ~]# umask 002
+[root@localhost ~]# umask 022
+```
+
 
 ## 参考
 

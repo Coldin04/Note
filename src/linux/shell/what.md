@@ -11,6 +11,8 @@ tag:
 
 Shell 脚本是一个纯文本文档，其中包含了一系列的命令，这些命令可以被 Shell 一行一行的读取并执行。
 
+![Shell的解释过程](https://s2.loli.net/2023/12/30/9gApCX1NkDvbfBy.png)
+
 Shell是一个用C语言编写的程序，是用户使用Linux的桥梁，用户的大部分工作都是通过Shell完成的。Shell既是一种命令语言，又是一种程序设计语言。我们习惯上称的Shell是指Shell程序，也就是Shell解释器，一般来说，Shell编程也不指的是Shell开发本身。
 
 Shell脚本是一种为Shell编写的脚本程序。我们可以把Shell脚本看做是一种批处理文件，Shell脚本通常以.sh结尾。
@@ -32,6 +34,18 @@ Shell环境是指Shell程序运行的环境，包括了一些环境变量和Shel
 * Shell for Root（/sbin/sh）
 
 Bourne Again Shell, 简称为 Bash，是大多数Linux系统默认的Shell。
+
+## 补充:环境变量PATH
+
+环境变量是Shell定义和赋初值的shell变量，用于查找路径、注册目录、终端类型/名称、用户名等。常用的系统环境变量如下:
+
+| 环境变量 | 说明 |
+| -- | -- |
+| PS1 | 命令行的一级提示符 |
+| PS2 | 命令行的二级提示符 |
+| pwd | 当前工作目录 |
+| home | 当前用户的用户目录 |
+
 
 ## 如何用Shell脚本写Hello World
 

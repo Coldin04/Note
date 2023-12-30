@@ -1,6 +1,6 @@
 ---
 title: vim的简单使用
-order: 3
+order: 4
 tag:
   - linux
   - vim
