@@ -19,3 +19,4 @@ PVLAN是Private VLAN的缩写，即私有VLAN。PVLAN是一种VLAN的扩展，�
 
 ## PVLAN的部署
 
+略，此功能仅限锐捷交换机使用，非重点，仅介绍。
