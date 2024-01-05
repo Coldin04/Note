@@ -11,10 +11,12 @@ export default hopeTheme({
     url: "https://coldin.top",
   },
 
-  //iconAssets: "fontawesome-with-brands",
-  iconAssets: "fontawesome",
+  iconAssets: "fontawesome-with-brands",
+  //iconAssets: "fontawesome",
 
   logo: "/logo.svg",
+
+  favicon: "/favicon.ico",
 
   repo: "coldin04/Note",
 
