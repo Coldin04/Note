@@ -94,6 +94,21 @@ https://zhuanlan.zhihu.com/p/68111471
 `p` 在光标后粘贴
 `P` 在光标钱粘贴
 
+
+### 查找
+
+ - :word 在光标之后查找一个字符串word，按n向后继续搜索，shift+n向上搜索。
+ - :?word在光标之前查找一个字符串word，按n向后继续搜索。
+
+### 替换
+ - :1,5s/word1/word2/g将文档中1-5行的word1替换为word2，不加g则只替换每行的第一个word1。
+ - %s/word1/word2/gi将文档所有的word1替换为word2，不区分大小写。
+
+## vim的配置
+### 设置搜索高亮
+
+临时设置时，在命令模式下输入：`set hlsearch`即可。如果需要永久设置，可以在`~/.vimrc`中添加`set hlsearch`即可。
+
 ## 学习更多
 
 看见有人推荐使用 `VimTutor` 入门，看见一个[简体中文翻译版](https://github.com/HanielF/VimTutor) ，可以试试。
