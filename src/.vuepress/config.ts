@@ -16,6 +16,12 @@ export default defineUserConfig({
     }
   },
 
+  head: [
+    ['script',{charset:'UTF-8',id:'LA_COLLECT',src:'https://sdk.51.la/js-sdk-pro.min.js'}],
+    ['script',{},'LA.init({id:"3H5Sh7lwHvY3yVI3",ck:"3H5Sh7lwHvY3yVI3",autoTrack:true,hashMode:true})'],
+    ['script',{src: 'https://sdk.51.la/perf/js-sdk-perf.min.js',crossorigin:'anonymous'}],
+  ],
+
 
   // Enable it with pwa
   // shouldPrefetch: false,
