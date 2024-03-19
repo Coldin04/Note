@@ -45,7 +45,6 @@ footer: <a href="https://beian.miit.gov.cn/">皖ICP备2022009522号</a>&nbsp&nbs
 
 <div style="text-align:center">
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Code licensed under MIT,<a property="dct:title" rel="cc:attributionURL" href="https://note.coldin.top">酷丁的笔记库</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
-<p>网页统计由<a target="_blank" title="51la网站统计" href="https://v6.51.la/land/3H5Sh7lwHvY3yVI3">51LA统计</a>提供</p>
 </div>
 
 
