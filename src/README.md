@@ -39,7 +39,7 @@ head:
 description: 欢迎来到酷丁的笔记仓库，这是一个计算机网络专业的学生的笔记，重点在于Linux基础操作，网络方面，后期可能增加更多内容。本笔记在GitHub开源，也欢迎大家参与贡献，一起完善这个笔记。
 
 
-footer: <a href="https://beian.miit.gov.cn/">皖ICP备2022009522号</a>&nbsp&nbsp&nbsp&nbsp感谢每一位阅读文档的朋友
+footer: 感谢每一位阅读文档的朋友
 ---
 
 
