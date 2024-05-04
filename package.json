@@ -20,13 +20,13 @@
   "dependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@rollup/plugin-terser": "^0.4.4",
-    "@vue/repl": "^2.5.8",
+    "@vue/repl": "^2.6.2",
     "chart.js": "^4.4.0",
     "echarts": "^5.4.3",
     "flowchart.ts": "^1.0.1",
     "katex": "^0.16.9",
     "mathjax-full": "^3.2.2",
-    "mermaid": "^10.5.1",
+    "mermaid": "^10.6.0",
     "reveal.js": "^4.6.1",
     "sourcemap-codec": "1.4.8"
   }

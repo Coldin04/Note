@@ -13,8 +13,8 @@ export default hopeTheme({
     url: "https://coldin.top",
   },
 
-  iconAssets: "fontawesome-with-brands",
-  //iconAssets: "fontawesome",
+  iconAssets: "https://kit.fontawesome.com/1f886efe08.js",
+ 
 
   logo: "/logo.svg",
 
