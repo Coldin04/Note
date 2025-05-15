@@ -17,8 +17,6 @@ actions:
 
 
 highlights:
-  - header: 📢 大概是公告吧
-    description: 请注意！这个地址可能有一段时间会不更新，想去追求点更厉害的事情，有机会好好整理下再发吧。 <br><br> 想去提升下自己，在忙一些非计算机相关的东西，有缘再见！👋
   - header: 这是什么？
     description: 一个学生的笔记仓库
     #image: /assets/image/blog.svg
