@@ -6,15 +6,14 @@ heroImage: /logo.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 酷丁的笔记
-tagline: 基于VuePress的个人笔记本（暂时停更）
+tagline: 基于VuePress的个人笔记
 actions:
   - text: 笔记目录 💡
     link: ./guide/
     type: primary
 
   - text: 关于我
-    link: "https://coldin.top"
-
+    link: "https://cold04.com"
 
 highlights:
   - header: 这是什么？
@@ -30,9 +29,6 @@ highlights:
 
 head:
   - - meta
-    - name: baidu-site-verification
-      content: codeva-u0hm6Q0Ddz
-  - - meta
     - name: keyword
       content: Coldin04,酷丁的笔记,学生笔记,计算机网络,linux
 
@@ -41,10 +37,13 @@ description: 欢迎来到酷丁的笔记仓库，这是一个计算机网络专�
 
 footer: 感谢每一位阅读文档的朋友
 ---
+::: warning 重要公告：
+note.coldin.top 将于 2028年7月27日 弃用，请添加了旧的友链的伙伴及时迁移到 [note.cold04.com](https://note.cold04.com)
+:::
 
 
 <div style="text-align:center">
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Code licensed under MIT,<a property="dct:title" rel="cc:attributionURL" href="https://note.coldin.top">酷丁的笔记库</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Code licensed under MIT,<a property="dct:title" rel="cc:attributionURL" href="https://note.cold04.com">酷丁的笔记库</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 </div>
 
 

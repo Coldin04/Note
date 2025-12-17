@@ -5,12 +5,12 @@ import sidebar from "./sidebar.js";
 
 
 export default hopeTheme({
-  hostname: "https://note.coldin.top",
+  hostname: "https://note.cold04.com",
 
 
   author: {
     name: "酷丁",
-    url: "https://coldin.top",
+    url: "https://cold04.com",
   },
 
   iconAssets: "https://kit.fontawesome.com/1f886efe08.js",

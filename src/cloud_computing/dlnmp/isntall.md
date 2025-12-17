@@ -49,7 +49,7 @@ tag:
 
 输入`mysql_secure_installation`命令，按照提示进行配置。
 
-如果遇到`ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)`错误，可以看[我博客中提供的解决方案](https://blog.coldin.top/p/mysql_error_2002/)
+如果遇到`ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)`错误，可以看[我博客中提供的解决方案](https://blog.cold04.com/p/mysql_error_2002/)
 
 
 ::: tip 注意

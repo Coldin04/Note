@@ -16,7 +16,7 @@ RA(dhcp-config)# dns-server 192.168.1.1
 
 # 下面为拓展
 
-RA(dhcp-config)# domain-name coldin.top
+RA(dhcp-config)# domain-name cold04.com
 RA(dhcp-config)# netbios-name-server 192.168.1.1
 RA(dhcp-config)# client-name bigserver
 ```

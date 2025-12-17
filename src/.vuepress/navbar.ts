@@ -39,7 +39,7 @@ export default navbar([
   {
     text: "关于我",
     icon: "circle-info",
-    link: "https://coldin.top",
+    link: "https://cold04.com",
   },
   {
     text: "友链",
